@@ -1,8 +1,11 @@
 # E-Vehicles_Dashboard
 
-This is a Data Analyst project focused on showing the spread of the Covid-19 until april 2024.
+This is a Data Analyst project focused on showing the Miles per Gallon equivalent for electric vehicles until may 2024.
+The US Environmental Protection Agency (EPA) estimates an average CO2 emissions per mile for an electric car charged from US elextricity mix to be around 100 grams of CO2 per mile and the US Energy Information Administration (EIA) estimates a CO2 emission per gallon of gasoline to be around 8.89kg per gallon. From this we can conclude: The higher the MPGe, the less CO2 per mile is produced.
 
-![Dashboard](/)
+
+
+![Dashboard](/Dashboard_e-vehicles.jpg)
 
 ## Table of Contents
 
@@ -18,7 +21,6 @@ This is a Data Analyst project focused on showing the spread of the Covid-19 unt
 
 - The dataset is sourced from [fueleconomy.gov](https://www.fueleconomy.gov/feg/ws/index.shtml#ft11).
 - The dataset has almost 48 thousand rows and represents vehicles records (City08, drive, make, model, VClass, year) and its respective values are from 1985 to May 2024.
-- For the purpose of this Dashboard only EVs from 2020 to 2024 were used. 
 
 |Variable|Meaning|Units|
 |:----|:----|:----|
@@ -34,18 +36,19 @@ This is a Data Analyst project focused on showing the spread of the Covid-19 unt
 - WD: Wheel Drive
 - MPGe: Miles per Gallon equivalent for electric vehicles
 - EV-s: Electric vehicle-, s
+- Mfr: Manufacturer
   
 ## Case Requirements
 
 Potential car buyers want to understand the environmental impact of their choice.
 
-- 1 - The buyer is interested in knowing the top 10 best and worst environmental friendly EVs in general.
-- 2 - The buyer is interested in knowing the best and worst environmental friendly EVs for each Class.
-- 3 - The buyer is interested in seeing the MPGe average compared with each Brand.
-- 4 - The buyer is interested in understaning the evolution of MPGe of the highest environmental EVs from each Brand during time.
+- 1 - The buyer is interested in knowing the top 10 best and worst environmental friendly EVs from 2020 until now.
+- 2 - The buyer is interested in knowing the best and worst environmental friendly EVs for each from 2020 until now.
+- 3 - The buyer is interested in seeing the MPGe average compared with each Brand from 2020 until now.
+- 4 - The buyer is interested in understaning the evolution of MPGe (maximum offered) from each Brand during time.
 
 ## Deployment
 
 ### Tableau
 
-- The Dashboard link is: [E-Vehicles Dashboard]()
+- The Dashboard link is: [E-Vehicles Dashboard](https://public.tableau.com/app/profile/andres.garcia3623/viz/EnvironmentalImpactofE-VehiclesmeasuredonMPGe/Dashboard1)
