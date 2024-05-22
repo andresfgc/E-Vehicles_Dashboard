@@ -1,7 +1,10 @@
 # E-Vehicles_Dashboard
 
 This is a Data Analyst project focused on showing the Miles per Gallon equivalent for electric vehicles until may 2024.
-The US Environmental Protection Agency (EPA) estimates an average CO2 emissions per mile for an electric car charged from US elextricity mix to be around 100 grams of CO2 per mile and the US Energy Information Administration (EIA) estimates a CO2 emission per gallon of gasoline to be around 8.89kg per gallon. From this we can conclude: The higher the MPGe, the less CO2 per mile is produced.
+The US Environmental Protection Agency (EPA) estimates an average CO2 emissions per mile for an electric car charged from US electricity mix to be around 100 grams of CO2 per mile and the US Energy Information Administration (EIA) estimates a CO2 emission per gallon of gasoline to be around 8.89kg per gallon. From this we can conclude: The higher the MPGe, the less CO2 per mile is produced.
+
+Example:
+CO2 emissions per mile = (8.89kg/gallon) x (1/153MPGe) = 0.058kg/mile, meaning that an electric car with capacity of 153MPGe produces an average of 58grams of CO2 per mile.
 
 
 
