@@ -27,11 +27,11 @@ CO2 emissions per mile = (8.89kg/gallon) x (1/153MPGe) = 0.058kg/mile, meaning t
 
 |Variable|Meaning|Units|
 |:----|:----|:----|
-|city08|MPGe in the city|6 - 153|
+|city08 (MPGe)|MPGe in the city|6 - 153|
 |drive|how power from the engine is distributed to the wheels of a vehicle|Rear-Wheel Drive, Front-Wheel Drive or All-Wheel Drive|
-|make|car manufacturers|Acura, Audi, BMW, BYD, Cadillac, Chevrolet, Fiat, Fisker, Ford, Genesis, GMC, Honda, Hyundai, Jaguar, Kandi, Kia, Lexus, Lordstown, Lucid, Maserati, Mazda, Mercedes-Benz, MINI, Nissan, Polestar, Porsche, Rivian, Rolls-Royce, Subaru, Tesla, Toyota, Vinfast, Volkswagen, Volvo|
+|make (Mfr)|car manufacturers|Acura, Audi, BMW, BYD, Cadillac, Chevrolet, Fiat, Fisker, Ford, Genesis, GMC, Honda, Hyundai, Jaguar, Kandi, Kia, Lexus, Lordstown, Lucid, Maserati, Mazda, Mercedes-Benz, MINI, Nissan, Polestar, Porsche, Rivian, Rolls-Royce, Subaru, Tesla, Toyota, Vinfast, Volkswagen, Volvo|
 |model|Electric vehicles models per Brand|exp. e-tron, Q4 e-tron quattro, RS e-tron GT, Q8 Sportback e-tron ultra quattro |
-|VClass|Vehicle Class|Compact Cars, Large Cars, Midsize Cars, Minicompact Cars, Small Utility Vehicle 2WD, Small Utility Vehicle 4WD, Small Station Wagons, Special Pickup Trucks 4WD, Standard Sport Utility Vehicle 4WD, Subcompact Cars|
+|VClass (Vehicle Class)|Vehicle Class|Compact Cars, Large Cars, Midsize Cars, Minicompact Cars, Small Utility Vehicle 2WD, Small Utility Vehicle 4WD, Small Station Wagons, Special Pickup Trucks 4WD, Standard Sport Utility Vehicle 4WD, Subcompact Cars|
 |year|period of time|from 2020 to may 2024|
 
 ## Terms and Jargons
