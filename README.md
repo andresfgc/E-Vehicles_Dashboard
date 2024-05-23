@@ -24,6 +24,7 @@ CO2 emissions per mile = (8.89kg/gallon) x (1/153MPGe) = 0.058kg/mile, meaning t
 
 - The dataset is sourced from [fueleconomy.gov](https://www.fueleconomy.gov/feg/ws/index.shtml#ft11).
 - The dataset has almost 48 thousand rows and represents vehicles records (City08, drive, make, model, VClass, year) and its respective values are from 1985 to May 2024.
+- The dataset was cleaned to take only electric vehicles into consideration. It was filtered by year from 2020 to May 2024 for case requirements 1, 2 & 3 and from 1985 until now for case requirement 4.
 
 |Variable|Meaning|Units|
 |:----|:----|:----|
